@@ -50,20 +50,20 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para o projet
 Em seguida, abra um terminal e execute:
 
 ```bash
-npm install --global expo-cli
+pnpm install --global expo-cli
 ```
 
 Nos arquivos do projeto abra o arquivo config.json na pasta /config e edite as configurações do banco em "development": para as suas configurações escolhidas durante a instalação do MySQL, e altere a configuração "urlRootNode": para o IP do seu PC.
 
 Após abra um novo terminal na raiz do projeto e execute os seguintes comandos:
 ```bash
-npm install
+pnpm install
 ```
 ```bash
-npm install -g nodemon
+pnpm install -g nodemon
 ```
 ```bash
-npx sequelize-cli db:migrate
+pnpm dlx sequelize-cli db:migrate
 ```
 ```bash
 expo start

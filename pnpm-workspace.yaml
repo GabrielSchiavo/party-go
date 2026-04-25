@@ -1,0 +1,5 @@
+allowBuilds:
+  bcrypt: true
+  dtrace-provider: true
+  es5-ext: true
+  nodemon: true

@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/icons/adaptive-icon.png",
         "backgroundColor": "#000000"
-      }
+      },
+      "package": "com.gabrielschiavo.partyappmobile"
     },
     "plugins": [
       [

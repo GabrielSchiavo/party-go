@@ -1,11 +1,11 @@
 {
   "development": {
     "username": "root",
-    "password": "",  
+    "password": "12345",  
     "database": "party_go",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
 
-  "urlRootNode": "http://:3000/"
+  "urlRootNode": "http://192.168.1.113:3000/"
 }
