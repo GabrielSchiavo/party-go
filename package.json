@@ -35,7 +35,7 @@
     "expo-updates": "~55.0.21",
     "express": "^5.2.1",
     "multer": "2.1.1",
-    "mysql2": "^3.22.2",
+    "mysql2": "^3.23.1",
     "react": "19.2.5",
     "react-dom": "19.2.5",
     "react-native": "0.85.2",
